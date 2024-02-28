@@ -3,7 +3,7 @@ model to recognise cats and dogs in pictures
 
 ## MODEL ACCURACY
 
-loss: 0.2289 - accuracy: 0.9044 - val_loss: 0.4126 - val_accuracy: 0.8331
+loss: 22,89% - accuracy: 90,4% - val_loss: 41.26% - val_accuracy: 83,31%
 
 ![image](https://github.com/MirkoCuccurullo/DogAndCatsModel/assets/90070321/e9550d3b-4e2b-44a2-ad49-be589cb48de1)
 
